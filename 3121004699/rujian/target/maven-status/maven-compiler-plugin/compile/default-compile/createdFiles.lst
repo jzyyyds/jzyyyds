@@ -1,0 +1,6 @@
+Utils\hammingUtils.class
+Utils\IkUtils.class
+exception\FileException.class
+Utils\FileUtils.class
+Utils\SimHashUtils.class
+CheckMain.class
